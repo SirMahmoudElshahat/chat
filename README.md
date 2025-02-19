@@ -8,7 +8,6 @@ A **real-time group chat application** built with **Flutter** and **Firebase**, 
 - **Firebase Authentication**: Handles user registration and login.
 - **Cloud Firestore**: Stores and syncs chat messages in real-time.
 - **Firebase Storage**: Stores user-uploaded images.
-- **Firebase Messaging**: Enables push notifications.
 
 ## 🎯 Features
 - **User Authentication**: Register and log in with Firebase authentication.
